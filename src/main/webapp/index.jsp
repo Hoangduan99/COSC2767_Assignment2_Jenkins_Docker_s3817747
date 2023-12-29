@@ -40,7 +40,7 @@
       <br>
       <span class="badge badge-danger"> Reading books, manga, also like playing some games related to FPS, Quizz </span>
       <br>
-      <span class="badge badge-warning"> JavaScript </span>
+      <span class="badge badge-warning"> JavaScripts </span>
       <!-- You only need to change these information, ends here! -->
       
 
