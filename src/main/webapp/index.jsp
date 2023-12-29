@@ -38,7 +38,7 @@
       <br>
       <span class="badge badge-success"> Information Technology BP162 </span>
       <br>
-      <span class="badge badge-danger"> Reading books, manga, also like playing some games related to FPS, Quizz, Thrilling </span>
+      <span class="badge badge-danger"> Reading books, manga, also like playing some games related to FPS, Quizz, Thrillings </span>
       <br>
       <span class="badge badge-warning"> JavaScripts, Java </span>
       <!-- You only need to change these information, ends here! -->
