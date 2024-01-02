@@ -36,9 +36,9 @@
       <br>
       <span class="badge badge-secondary"> My student ID: s3817747 </span>
       <br>
-      <span class="badge badge-success"> My Major: Information Technology BP162 </span>
+      <span class="badge badge-success"> My Major is Information Technology BP162 </span>
       <br>
-      <span class="badge badge-danger"> My Hobby: Reading books, manga, also like playing some games related to FPS, Quizz, Thrillings </span>
+      <span class="badge badge-danger"> My Hobby is Reading books, manga, also like playing some games related to FPS, Quizz, Thrillings </span>
       <br>
       <span class="badge badge-warning"> My Favorite: JavaScripts, Java </span>
       <!-- You only need to change these information, ends here! -->
