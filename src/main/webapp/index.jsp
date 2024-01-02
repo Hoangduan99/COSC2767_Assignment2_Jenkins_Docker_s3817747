@@ -36,7 +36,7 @@
       <br>
       <span class="badge badge-secondary"> My student ID is s3817747 </span>
       <br>
-      <span class="badge badge-success"> My Major is Information Technology BP162 </span>
+      <span class="badge badge-success"> My Major: Information Technology BP162 </span>
       <br>
       <span class="badge badge-danger"> My Hobby is Reading books, manga, also like playing some games related to FPS, Quizz, Thrillings </span>
       <br>
