@@ -34,7 +34,7 @@
       <p>Here is the information you need to change:</p>
       <span class="badge badge-primary"> Hoang Ngoc Duan </span>
       <br>
-      <span class="badge badge-secondary"> My student ID: s3817747 </span>
+      <span class="badge badge-secondary"> My student ID is s3817747 </span>
       <br>
       <span class="badge badge-success"> My Major is Information Technology BP162 </span>
       <br>
